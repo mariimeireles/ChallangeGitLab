@@ -143,6 +143,7 @@
 				E1CF5C6A1E2FD74100BE54A4 /* Classe.swift in Sources */,
 				4989D0011E2FD4DB00320573 /* ViewController.swift in Sources */,
 				4989CFFF1E2FD4DB00320573 /* AppDelegate.swift in Sources */,
+				4989D0111E2FD74900320573 /* testeError.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
