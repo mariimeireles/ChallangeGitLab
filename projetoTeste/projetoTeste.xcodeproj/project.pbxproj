@@ -12,6 +12,7 @@
 		4989D0041E2FD4DB00320573 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4989D0021E2FD4DB00320573 /* Main.storyboard */; };
 		4989D0061E2FD4DB00320573 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4989D0051E2FD4DB00320573 /* Assets.xcassets */; };
 		4989D0091E2FD4DB00320573 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4989D0071E2FD4DB00320573 /* LaunchScreen.storyboard */; };
+		4989D0111E2FD74900320573 /* testeError.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4989D0101E2FD74900320573 /* testeError.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		4989D0051E2FD4DB00320573 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		4989D0081E2FD4DB00320573 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		4989D00A1E2FD4DB00320573 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4989D0101E2FD74900320573 /* testeError.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = testeError.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 			children = (
 				4989CFFE1E2FD4DB00320573 /* AppDelegate.swift */,
 				4989D0001E2FD4DB00320573 /* ViewController.swift */,
+				4989D0101E2FD74900320573 /* testeError.swift */,
 				4989D0021E2FD4DB00320573 /* Main.storyboard */,
 				4989D0051E2FD4DB00320573 /* Assets.xcassets */,
 				4989D0071E2FD4DB00320573 /* LaunchScreen.storyboard */,
@@ -139,6 +142,7 @@
 			files = (
 				4989D0011E2FD4DB00320573 /* ViewController.swift in Sources */,
 				4989CFFF1E2FD4DB00320573 /* AppDelegate.swift in Sources */,
+				4989D0111E2FD74900320573 /* testeError.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
